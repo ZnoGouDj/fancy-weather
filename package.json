@@ -1,0 +1,20 @@
+{
+  "name": "fancy-weather",
+  "version": "1.0.0",
+  "description": "draft\r [Task link](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/fancy-weather.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/.bin/webpack --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZnoGouDj/fancy-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZnoGouDj/fancy-weather/issues"
+  },
+  "homepage": "https://github.com/ZnoGouDj/fancy-weather#readme"
+}
